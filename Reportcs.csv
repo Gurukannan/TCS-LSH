@@ -1,0 +1,309 @@
+Sno,Project,DOP,Sales Executive,DOB,Age,DOA,DOA,Years From Marriage,RI/NRI,Self-Employed / Salaried / Homemaker,Name of the Company,Company Address,Designation,Documentation Address,Communication Address,Own Use/Investment/Gifting,Customer / CP / Vendor /Employee,Home Loan Yes/No,Loan Amount,Bank
+1,LSH-A,2-Feb-18,Ajay,8-May-77,43,31-May-10,33,8,RI,Self-employed,HCL Technologies,Shollinganallur,Mid,Shollinganallur,Shollinganallur,Own,Customer,Yes,95%,SBI
+2,LSH-B,5-Feb-18,Sridhar,25-Jan-82,38,31-Jan-10,28,8,RI,Self-employed,Standard Charted GBS India,NA,Low,Velachery,Velachery,Own,Customer,Yes,84%,SBI
+3,LSH-C,8-Feb-18,Mukund,2-Mar-88,32,31-Mar-10,22,8,RI,Self-employed,TCS,Velachery,High,Perungudi,Perungudi,Own,CP,No,74%,SBI
+4,LSH-A,11-Feb-18,Yamuna,25-Jan-88,32,31-Jan-10,22,8,RI,Self-employed,Burndy Technology,Perungudi,Mid,Thoraipakkam,Thoraipakkam,Own,CP,Yes,84%,SBI
+5,LSH-B,14-Feb-18,Kathir,18-Jul-74,46,31-Jul-00,26,18,RI,Self-employed,Ford Motor Pvt Ltd,Perungudi,Mid,Velachery,Velachery,Investment,CP,Yes,74%,SBI
+6,LSH-C,17-Feb-18,Vasan,22-Nov-86,34,30-Nov-10,24,7,RI,salaried,TCS,Karapakkam,Mid,Taramani,Taramani,Investment,CP,No,63%,SBI
+7,LSH-A,20-Feb-18,Ajay,1-Aug-87,33,31-Aug-10,23,8,RI,salaried,Wells Fargo EGS India Pvt Ltd,Thoraipakkam,Mid,Mylapore,Mylapore,Own,CP,Yes,84%,HDFC
+8,LSH-B,23-Feb-18,Ajay,13-Aug-91,29,31-Aug-10,19,8,RI,salaried,Gofrugal Tech Pvt Ltd,Velachery,Low,Kottivakam,Kottivakam,Own,CP,Yes,84%,HDFC
+9,LSH-C,26-Feb-18,Sridhar,14-Jul-87,33,31-Jul-10,23,8,RI,salaried,Burndy Technology,Taramani,High,Greams Road,Greams Road,Own,CP,No,84%,HDFC
+10,LSH-A,1-Mar-18,Mukund,2-Jul-85,35,31-Jul-10,25,8,RI,salaried,Qube Cinema Techonogies Pvt Ltd,Mylapore,Mid,Tambaram,Tambaram,Own,CP,Yes,95%,Indian
+11,LSH-B,4-Mar-18,Yamuna,27-Jan-89,31,31-Jan-10,21,8,RI,salaried,CTS,NA,Mid,Teynampet ,Teynampet ,Investment,CP,Yes,95%,Indian
+12,LSH-C,7-Mar-18,Kathir,2-Jul-88,32,31-Jul-10,22,8,RI,salaried,Genome Life Science Pvt Ltd,Kottivakam,Mid,Thoraipakkam,Thoraipakkam,Investment,CP,No,63%,Corporation
+13,LSH-A,10-Mar-18,Vasan,7-Jan-88,32,31-Jan-10,22,8,RI,salaried,NLC,Neyveli,Mid,Kanchipuram,Kanchipuram,Own,CP,Yes,84%,Corporation
+14,LSH-B,13-Mar-18,Ajay,2-Apr-82,38,30-Apr-10,28,8,RI,salaried,Infoview Technologies,Karapakkam,Low,Ambattur,Ambattur,Gifting,Vendor,Yes,84%,Corporation
+15,LSH-C,16-Mar-18,Ajay,21-Jun-60,60,30-Jun-91,31,27,RI,salaried,CTS,Shollinganallur,High,Taramani,Taramani,Own,Vendor,No,74%,Bajaj
+16,LSH-A,19-Mar-18,Sridhar,24-Mar-96,24,31-Mar-16,20,2,RI,salaried,Allahabad Bank,Erode,Mid,MGR Salai,MGR Salai,Own,Vendor,Yes,74%,Bajaj
+17,LSH-B,22-Mar-18,Mukund,19-Jul-85,35,31-Jul-10,25,8,RI,salaried,Pfizer,Greams Road,Mid,Palavakkam,Palavakkam,Own,Vendor,Yes,74%,Bajaj
+18,LSH-C,25-Mar-18,Yamuna,10-Apr-85,35,30-Apr-10,25,8,NRI,salaried,AGS Health Pvt Ltd,Singapore,Mid,Singapore,Singapore,Own,Vendor,No,74%,ABFL
+19,LSH-A,28-Mar-18,Kathir,26-Aug-81,39,31-Aug-10,29,8,RI,Homemaker,Wipro Ltd,Shollinganallur,Mid,Thiruvanmiyur,Thiruvanmiyur,Investment,Employee,Yes,63%,ABFL
+20,LSH-B,31-Mar-18,Vasan,22-May-82,38,31-May-10,28,8,RI,Self-employed,CTS,Tambaram,Low,Guindy,Guindy,Investment,Customer,Yes,63%,ABFL
+21,LSH-C,3-Apr-18,Ajay,13-Jan-86,34,31-Jan-10,24,8,RI,Self-employed,TCS,Chennai,High,G.N Chetty Road,G.N Chetty Road,Own,Customer,No,84%,ABFL
+22,LSH-A,6-Apr-18,Ajay,21-Mar-89,31,31-Mar-10,21,8,RI,salaried,DBS Bank,NA,Mid,T.Nagar,T.Nagar,Own,Customer,Yes,84%,Kotak
+23,LSH-B,9-Apr-18,Sridhar,19-Nov-88,32,30-Nov-10,22,7,RI,salaried,Valueplus Techonologies Pvt Ltd,Perungudi,Mid,Shollinganallur,Shollinganallur,Own,Customer,Yes,63%,Kotak
+24,LSH-C,12-Apr-18,Mukund,11-Apr-80,40,30-Apr-10,30,8,RI,salaried,Mohan Associates,Teynampet ,Mid,Velachery,Velachery,Own,Customer,No,95%,Kotak
+25,LSH-A,15-Apr-18,Yamuna,18-Dec-94,26,31-Dec-16,22,1,RI,salaried,Tek Systems,Thoraipakkam,Mid,Perungudi,Perungudi,Investment,Customer,Yes,95%,SBI
+26,LSH-A,18-Apr-18,Kathir,4-Dec-79,41,31-Dec-10,31,7,RI,salaried,TCS,NA,Low,Thoraipakkam,Thoraipakkam,Investment,CP,Yes,74%,SBI
+27,LSH-B,21-Apr-18,Vasan,17-Nov-86,34,30-Nov-10,24,7,RI,salaried,Amazon,NA,High,Velachery,Velachery,Own,CP,No,63%,PNB
+28,LSH-C,24-Apr-18,Ajay,4-Apr-59,61,30-Apr-90,31,28,RI,salaried,Genesys,Perungudi,Mid,Taramani,Taramani,Gifting,CP,Yes,63%,PNB
+29,LSH-A,27-Apr-18,Ajay,14-Dec-94,26,31-Dec-16,22,1,RI,salaried,Hexaware,Kanchipuram,Mid,Mylapore,Mylapore,Own,CP,Yes,95%,PNB
+30,LSH-B,30-Apr-18,Sridhar,30-Mar-86,34,31-Mar-10,24,8,RI,Self-employed,Home maker,NA,Mid,Kottivakam,Kottivakam,Own,CP,No,84%,Yes Bank
+31,LSH-B,3-May-18,Mukund,28-Nov-83,37,30-Nov-10,27,7,RI,Self-employed,Eicher Motors Ltd,Kottivakam,Mid,Greams Road,Greams Road,Own,CP,Yes,63%,Yes Bank
+32,LSH-C,6-May-18,Yamuna,30-Sep-69,51,30-Sep-00,31,18,RI,Self-employed,HCL Technologies,Ambattur,Low,Tambaram,Tambaram,Own,CP,Yes,95%,Yes Bank
+33,LSH-A,9-May-18,Kathir,17-Sep-82,38,30-Sep-10,28,8,RI,Self-employed,Verizon,Taramani,High,Teynampet ,Teynampet ,Investment,CP,No,95%,Yes Bank
+34,LSH-B,12-May-18,Vasan,22-Oct-90,30,31-Oct-10,20,8,RI,Self-employed,GBSScope,Sholinganallur,Mid,Thoraipakkam,Thoraipakkam,Investment,CP,Yes,84%,Yes Bank
+35,LSH-C,15-May-18,Ajay,13-Jan-86,34,31-Jan-10,24,8,RI,salaried,Infoview Technologies,Karapakkam,Mid,Kanchipuram,Kanchipuram,Own,CP,Yes,74%,CSB
+36,LSH-A,18-May-18,Ajay,16-Jan-84,36,31-Jan-10,26,8,NRI,salaried,Cognizant,Kuwait,Mid,Kuwait,Kuwait,Own,CP,No,63%,CSB
+37,LSH-A,21-May-18,Sridhar,18-Oct-83,37,31-Oct-10,27,8,RI,salaried,AIATSL,NA,Mid,Taramani,Taramani,Own,Vendor,Yes,74%,SBI
+38,LSH-B,24-May-18,Mukund,16-Nov-82,38,30-Nov-10,28,8,RI,salaried,IOB,Singapore,Low,MGR Salai,MGR Salai,Own,Vendor,Yes,84%,SBI
+39,LSH-C,27-May-18,Yamuna,4-Mar-61,59,31-Mar-92,31,26,RI,salaried,Infosys Limited,Chengalpet,High,Palavakkam,Palavakkam,Investment,Vendor,No,95%,SBI
+40,LSH-A,30-May-18,Kathir,29-Apr-65,55,30-Apr-00,35,18,RI,salaried,BNP,Nungambakkam,Mid,Royapuram,Royapuram,Investment,Vendor,Yes,74%,SBI
+41,LSH-B,2-Jun-18,Vasan,25-Feb-79,41,28-Feb-10,31,8,RI,salaried,ICICI Bank Ltd,Perumbakkam,Mid,Thiruvanmiyur,Thiruvanmiyur,Own,Vendor,Yes,74%,SBI
+42,LSH-B,5-Jun-18,Ajay,5-Jan-87,33,31-Jan-10,23,8,RI,salaried,Sanmar Group,Cathedral Road,Mid,Guindy,Guindy,Gifting,Employee,No,74%,SBI
+43,LSH-C,8-Jun-18,Ajay,27-Nov-89,31,30-Nov-10,21,8,RI,salaried,Shell india Markets,Perungudi,Mid,G.N Chetty Road,G.N Chetty Road,Own,Customer,Yes,84%,HDFC
+44,LSH-A,11-Jun-18,Sridhar,24-Feb-86,34,28-Feb-10,24,8,RI,salaried,Amazon,Perungudi,Low,T.Nagar,T.Nagar,Own,Customer,Yes,84%,HDFC
+45,LSH-B,14-Jun-18,Mukund,27-Feb-79,41,28-Feb-10,31,8,RI,salaried,Home maker,NA,High,Shollinganallur,Shollinganallur,Own,Customer,No,84%,HDFC
+46,LSH-C,17-Jun-18,Yamuna,10-Dec-87,33,31-Dec-10,23,8,RI,salaried,Ashok Leyland,Guindy,Mid,Velachery,Velachery,Own,Customer,Yes,84%,Indian
+47,LSH-A,20-Jun-18,Kathir,11-Nov-91,29,30-Nov-10,19,8,RI,salaried,HCL Technologies,Sholinganallur,Mid,Perungudi,Perungudi,Investment,Customer,Yes,63%,Indian
+48,LSH-A,23-Jun-18,Vasan,1-Jan-83,37,31-Jan-10,27,8,RI,Homemaker,Astrazeneca Pvt Ltd,Taramani,Mid,Thoraipakkam,Thoraipakkam,Investment,Customer,No,74%,Corporation
+49,LSH-B,26-Jun-18,Ajay,23-Jun-88,32,30-Jun-10,22,8,RI,Self-employed,Maersk Global Service,Kandhanchavadi,Mid,Velachery,Velachery,Own,CP,Yes,84%,Corporation
+50,LSH-C,29-Jun-18,Ajay,9-Sep-87,33,30-Sep-10,23,8,RI,Self-employed,Wipro Ltd,Sholinganallur,Low,Taramani,Taramani,Own,CP,Yes,74%,Corporation
+51,LSH-A,2-Jul-18,Sridhar,11-Oct-81,39,31-Oct-10,29,8,RI,salaried,Shell india Markets,Perungudi,High,Mylapore,Mylapore,Own,CP,No,74%,Bajaj
+52,LSH-B,5-Jul-18,Mukund,28-Oct-87,33,31-Oct-10,23,8,RI,salaried,Vestas,Sholinganallur,Mid,Kottivakam,Kottivakam,Own,CP,Yes,74%,Bajaj
+53,LSH-B,8-Jul-18,Yamuna,23-Apr-85,35,30-Apr-10,25,8,RI,salaried,Adviti Consulting Pvt Ltd,Bangalore,Mid,Greams Road,Greams Road,Investment,CP,Yes,63%,Bajaj
+54,LSH-C,11-Jul-18,Kathir,22-Jul-86,34,31-Jul-10,24,8,NRI,salaried,Cognizant,Dubai,Mid,Dubai,Dubai,Investment,CP,No,95%,ABFL
+55,LSH-A,14-Jul-18,Vasan,22-May-82,38,31-May-10,28,8,RI,salaried,BNP,Perungudi,Mid,Teynampet ,Teynampet ,Own,CP,Yes,84%,ABFL
+56,LSH-B,17-Jul-18,Ajay,14-Sep-89,31,30-Sep-10,21,8,RI,salaried,HCL Technologies,Sholinganallur,Low,Thoraipakkam,Thoraipakkam,Gifting,CP,Yes,84%,ABFL
+57,LSH-C,20-Jul-18,Ajay,20-Jun-85,35,30-Jun-10,25,8,RI,salaried,Cognizant,Sholinganallur,High,Kanchipuram,Kanchipuram,Own,CP,No,95%,ABFL
+58,LSH-A,23-Jul-18,Sridhar,6-Jul-83,37,31-Jul-10,27,8,RI,salaried,Home maker,NA,Mid,Ambattur,Ambattur,Own,CP,Yes,84%,Kotak
+59,LSH-A,26-Jul-18,Mukund,15-Jun-90,30,30-Jun-10,20,8,RI,Self-employed,Wipro Ltd,Sholinganallur,Mid,Taramani,Taramani,Own,CP,Yes,74%,Kotak
+60,LSH-B,29-Jul-18,Yamuna,20-May-82,38,31-May-10,28,8,RI,Self-employed,Shell india Markets,NA,Mid,MGR Salai,MGR Salai,Own,Vendor,No,84%,Kotak
+61,LSH-C,1-Aug-18,Kathir,28-Jun-90,30,30-Jun-10,20,8,RI,Self-employed,TCS,Tidal Park,Mid,Palavakkam,Palavakkam,Investment,Vendor,Yes,74%,SBI
+62,LSH-A,4-Aug-18,Vasan,10-Jun-85,35,30-Jun-10,25,8,RI,Self-employed,Photon Infotech,Tharamani,Low,Royapuram,Royapuram,Investment,Vendor,Yes,95%,SBI
+63,LSH-B,7-Aug-18,Ajay,15-Nov-88,32,30-Nov-10,22,8,RI,Self-employed,CTS,Sholinganallur,High,Thiruvanmiyur,Thiruvanmiyur,Own,Vendor,No,84%,PNB
+64,LSH-B,10-Aug-18,Ajay,17-May-91,29,31-May-10,19,8,RI,salaried,CTS,Sholinganallur,Mid,Guindy,Guindy,Own,Vendor,Yes,74%,PNB
+65,LSH-C,13-Aug-18,Sridhar,23-May-88,32,31-May-10,22,8,RI,salaried,Sim Info systems,NA,Mid,G.N Chetty Road,G.N Chetty Road,Own,Employee,Yes,63%,PNB
+66,LSH-A,16-Aug-18,Mukund,29-Oct-89,31,31-Oct-10,21,8,RI,salaried,Ford Motor Pvt Ltd,NA,Mid,T.Nagar,T.Nagar,Own,Customer,No,63%,Yes Bank
+67,LSH-B,19-Aug-18,Yamuna,7-Feb-91,29,28-Feb-10,19,9,RI,salaried,Standard Chartered Bank,Karapakkam,Mid,Shollinganallur,Shollinganallur,Investment,Customer,Yes,84%,Yes Bank
+68,LSH-C,22-Aug-18,Kathir,9-Nov-86,34,30-Nov-10,24,8,RI,salaried,Accenture,NA,Low,Velachery,Velachery,Investment,Customer,Yes,74%,Yes Bank
+69,LSH-A,25-Aug-18,Vasan,13-Feb-90,30,28-Feb-10,20,9,RI,salaried,Sagitec Solutiom,Taramani,High,Perungudi,Perungudi,Own,Customer,No,84%,Yes Bank
+70,LSH-A,28-Aug-18,Ajay,7-Aug-82,38,31-Aug-10,28,8,RI,salaried,Ad2pro Media solution,NA,Mid,Thoraipakkam,Thoraipakkam,Gifting,Customer,Yes,95%,Yes Bank
+71,LSH-B,31-Aug-18,Ajay,4-Jun-89,31,30-Jun-10,21,8,RI,salaried,United India Insurance,Royapettah,Mid,Velachery,Velachery,Own,Customer,Yes,95%,CSB
+72,LSH-C,3-Sep-18,Sridhar,31-Mar-92,28,31-Mar-10,18,8,NRI,salaried,CTS,Muscat,Mid,Muscat,Muscat,Own,CP,No,95%,CSB
+73,LSH-A,6-Sep-18,Mukund,1-Dec-70,50,31-Dec-00,30,18,RI,salaried,Home maker,NA,Mid,Mylapore,Mylapore,Own,CP,Yes,95%,SBI
+74,LSH-B,9-Sep-18,Yamuna,23-Jun-88,32,30-Jun-10,22,8,RI,salaried,HCL Technologies,Elcot,Low,Kottivakam,Kottivakam,Own,CP,Yes,63%,SBI
+75,LSH-B,12-Sep-18,Kathir,14-Apr-81,39,30-Apr-10,29,8,RI,salaried,Tech Mahindra,NA,High,Greams Road,Greams Road,Investment,CP,No,74%,SBI
+76,LSH-C,15-Sep-18,Vasan,28-Apr-89,31,30-Apr-10,21,8,RI,salaried,Home maker,NA,Mid,Tambaram,Tambaram,Investment,CP,Yes,74%,SBI
+77,LSH-A,18-Sep-18,Ajay,24-Apr-85,35,30-Apr-10,25,8,RI,Homemaker,Home maker,NA,Mid,Teynampet ,Teynampet ,Own,CP,Yes,95%,SBI
+78,LSH-B,21-Sep-18,Ajay,6-Aug-86,34,31-Aug-10,24,8,RI,Self-employed,HSBC,Perungudi,Mid,Thoraipakkam,Thoraipakkam,Own,CP,No,95%,SBI
+79,LSH-C,24-Sep-18,Sridhar,29-Jul-86,34,31-Jul-10,24,8,RI,Self-employed,Home maker,NA,Mid,Kanchipuram,Kanchipuram,Own,CP,Yes,74%,HDFC
+80,LSH-A,27-Sep-18,Mukund,2-Apr-91,29,30-Apr-10,19,9,RI,salaried,Coup society,Chrompet,Low,Ambattur,Ambattur,Own,CP,Yes,84%,HDFC
+81,LSH-A,30-Sep-18,Yamuna,1-Jun-74,46,30-Jun-00,26,18,RI,salaried,TCS,Siruseri,High,Taramani,Taramani,Investment,CP,No,63%,HDFC
+82,LSH-B,3-Oct-18,Kathir,27-May-62,58,31-May-93,31,25,RI,salaried,SCB,Sholinganallur,Mid,MGR Salai,MGR Salai,Investment,CP,Yes,63%,Indian
+83,LSH-C,6-Oct-18,Vasan,8-Mar-74,46,31-Mar-00,26,19,RI,salaried,Ford Motor Pvt Ltd,Perungudi,Mid,Palavakkam,Palavakkam,Own,Vendor,Yes,74%,Indian
+84,LSH-A,9-Oct-18,Ajay,12-May-90,30,31-May-10,20,8,RI,salaried,Home maker,NA,Mid,Royapuram,Royapuram,Gifting,Vendor,No,74%,Corporation
+85,LSH-B,12-Oct-18,Ajay,1-Feb-93,27,28-Feb-10,17,9,RI,salaried,Sphera Solutions Inc,NA,Mid,Thiruvanmiyur,Thiruvanmiyur,Own,Vendor,Yes,63%,Corporation
+86,LSH-B,15-Oct-18,Sridhar,24-Jul-88,32,31-Jul-10,22,8,RI,salaried,Ethnic Tanjore Arts,T.Nagar,Low,Guindy,Guindy,Own,Vendor,Yes,84%,Corporation
+87,LSH-C,18-Oct-18,Mukund,31-Dec-74,45,31-Dec-09,35,9,RI,salaried,Indian Bank,Egmore,High,G.N Chetty Road,G.N Chetty Road,Own,Vendor,No,63%,Bajaj
+88,LSH-A,21-Oct-18,Yamuna,10-Jul-83,37,31-Jul-10,27,8,RI,Self-employed,Sungwoo Hitech,Irungattukottai,Mid,T.Nagar,T.Nagar,Own,Employee,Yes,84%,Bajaj
+89,LSH-B,24-Oct-18,Kathir,9-Nov-82,38,30-Nov-10,28,8,RI,Self-employed,Home maker,NA,Mid,Shollinganallur,Shollinganallur,Investment,Customer,Yes,63%,Bajaj
+90,LSH-C,27-Oct-18,Vasan,1-Sep-89,31,30-Sep-10,21,8,NRI,Self-employed,Virtusa,Kuwait,Mid,Kuwait,Kuwait,Investment,Customer,No,74%,ABFL
+91,LSH-A,30-Oct-18,Ajay,4-Aug-62,58,31-Aug-93,31,25,RI,Self-employed,UST Global,Thoraipakkam,Mid,Perungudi,Perungudi,Own,Customer,Yes,84%,ABFL
+92,LSH-A,2-Nov-18,Ajay,15-Sep-70,50,30-Sep-00,30,18,RI,Self-employed,Sagitec Solutiom,Taramani,Low,Thoraipakkam,Thoraipakkam,Own,Customer,Yes,74%,ABFL
+93,LSH-B,5-Nov-18,Sridhar,28-Mar-88,32,31-Mar-10,22,9,RI,salaried,HCL Technologies,NA,High,Velachery,Velachery,Own,Customer,No,74%,ABFL
+94,LSH-C,8-Nov-18,Mukund,28-Jul-84,36,31-Jul-10,26,8,RI,salaried,Andhra Bank,Neelankarai,Mid,Taramani,Taramani,Own,Customer,Yes,84%,Kotak
+95,LSH-A,11-Nov-18,Yamuna,6-Apr-82,38,30-Apr-10,28,9,RI,salaried,TCS,Siruseri,Mid,Mylapore,Mylapore,Investment,CP,Yes,84%,Kotak
+96,LSH-B,14-Nov-18,Kathir,15-Dec-88,32,31-Dec-10,22,8,RI,salaried,Unique Frigjt Lines Pvt Ltd,Parrys,Mid,Kottivakam,Kottivakam,Investment,CP,No,95%,Kotak
+97,LSH-B,17-Nov-18,Vasan,15-Apr-84,36,30-Apr-10,26,9,RI,salaried,Sri venkateswara Mat Hr Sec School,Ayapakkam,Mid,Greams Road,Greams Road,Own,CP,Yes,95%,SBI
+98,LSH-C,20-Nov-18,Ajay,28-May-81,39,31-May-10,29,9,RI,salaried,HCL Technologies,Ambattur,Low,Tambaram,Tambaram,Gifting,CP,Yes,95%,SBI
+99,LSH-A,23-Nov-18,Ajay,5-Sep-90,30,30-Sep-10,20,8,RI,salaried,BNP,NA,High,Teynampet ,Teynampet ,Own,CP,No,74%,PNB
+100,LSH-B,26-Nov-18,Sridhar,14-Nov-70,50,30-Nov-00,30,18,RI,salaried,Infosys,NA,Mid,Thoraipakkam,Thoraipakkam,Own,CP,Yes,95%,PNB
+101,LSH-C,29-Nov-18,Mukund,28-May-79,41,31-May-10,31,9,RI,salaried,Home maker,NA,Mid,Kanchipuram,Kanchipuram,Own,CP,Yes,95%,PNB
+102,LSH-A,2-Dec-18,Yamuna,3-Jun-84,36,30-Jun-10,26,9,NRI,salaried,Harman Connected Services,UK,Mid,UK,UK,Own,CP,No,74%,Yes Bank
+103,LSH-A,5-Dec-18,Kathir,20-Jul-89,31,31-Jul-10,21,8,RI,salaried,Zunotechs,Velachery,Mid,Taramani,Taramani,Investment,CP,Yes,95%,Yes Bank
+104,LSH-B,8-Dec-18,Vasan,2-Nov-94,26,30-Nov-16,22,2,RI,salaried,Experis IT Pvt Ltd,NA,Low,MGR Salai,MGR Salai,Investment,CP,Yes,84%,Yes Bank
+105,LSH-C,11-Dec-18,Ajay,20-Feb-83,37,28-Feb-10,27,9,RI,salaried,Sri Ramakrishna Middle school,Vilakudi,High,Palavakkam,Palavakkam,Own,CP,No,95%,Yes Bank
+106,LSH-A,14-Dec-18,Ajay,20-Jul-82,38,31-Jul-10,28,8,RI,Homemaker,Virtusa Software Services ,NA,Mid,Royapuram,Royapuram,Own,Vendor,Yes,95%,Yes Bank
+107,LSH-B,17-Dec-18,Sridhar,7-Mar-79,41,31-Mar-10,31,9,RI,Self-employed,TCS,Anna Salai,Mid,Thiruvanmiyur,Thiruvanmiyur,Own,Vendor,Yes,63%,CSB
+108,LSH-B,20-Dec-18,Mukund,5-Jul-90,30,31-Jul-10,20,8,NRI,Self-employed,HCL Technologies,Singapore,Mid,Singapore,Singapore,Own,Vendor,No,95%,CSB
+109,LSH-C,23-Dec-18,Yamuna,13-Jun-68,52,30-Jun-00,32,19,RI,salaried,FCA India Pvt Ltd,Perungudi,Mid,G.N Chetty Road,G.N Chetty Road,Investment,Vendor,Yes,84%,SBI
+110,LSH-A,26-Dec-18,Kathir,13-Aug-88,32,31-Aug-10,22,8,RI,salaried,Home maker,NA,Low,T.Nagar,T.Nagar,Investment,Vendor,Yes,84%,SBI
+111,LSH-B,29-Dec-18,Vasan,30-Jul-81,39,31-Jul-10,29,8,RI,salaried,Sugam Traditional Oil,Thirumudivakkam,High,Shollinganallur,Shollinganallur,Own,Employee,No,74%,SBI
+112,LSH-C,1-Jan-19,Ajay,5-Jan-89,31,31-Jan-10,21,9,RI,salaried,Lennox India Technology Centre Pvt Ltd,Taramani,Mid,Velachery,Velachery,Gifting,Customer,Yes,74%,SBI
+113,LSH-A,4-Jan-19,Ajay,10-Nov-89,31,30-Nov-10,21,8,RI,salaried,HCL Technologies,Kandanchavadi,Mid,Perungudi,Perungudi,Own,Customer,Yes,95%,SBI
+114,LSH-A,7-Jan-19,Sridhar,19-Jul-83,37,31-Jul-10,27,8,RI,salaried,HCL Technologies,Navallur,Mid,Thoraipakkam,Thoraipakkam,Own,Customer,No,74%,SBI
+115,LSH-B,10-Jan-19,Mukund,28-Jul-89,31,31-Jul-10,21,8,RI,salaried,Home maker,NA,Mid,Velachery,Velachery,Own,Customer,Yes,74%,HDFC
+116,LSH-C,13-Jan-19,Yamuna,12-Sep-82,38,30-Sep-10,28,8,RI,salaried,CITI Corporation,Taramani,Low,Taramani,Taramani,Own,Customer,Yes,74%,HDFC
+117,LSH-A,16-Jan-19,Kathir,10-Dec-86,34,31-Dec-10,24,8,RI,Self-employed,IBM India Pvt Ltd,Ramapuram,High,Mylapore,Mylapore,Investment,Customer,No,84%,HDFC
+118,LSH-B,19-Jan-19,Vasan,3-May-93,27,31-May-10,17,9,RI,Self-employed,Fidelity India,OMR,Mid,Kottivakam,Kottivakam,Investment,CP,Yes,95%,Indian
+119,LSH-B,22-Jan-19,Ajay,7-Feb-97,23,29-Feb-16,19,3,RI,Self-employed,Shishya,Thoraipakkam,Mid,Greams Road,Greams Road,Own,CP,Yes,63%,Indian
+120,LSH-C,25-Jan-19,Ajay,14-Nov-89,31,30-Nov-10,21,8,RI,Self-employed,Latentview Analytics,Taramani,Mid,Tambaram,Tambaram,Own,CP,No,95%,Corporation
+121,LSH-A,28-Jan-19,Sridhar,8-May-89,31,31-May-10,21,9,RI,Self-employed,JSW Energy LTD,BELLARY,Mid,Teynampet ,Teynampet ,Own,CP,Yes,74%,Corporation
+122,LSH-C,31-Jan-19,Mukund,12-Dec-82,38,31-Dec-10,28,8,RI,salaried,Black Board,Kottivakam,Low,Thoraipakkam,Thoraipakkam,Own,CP,Yes,74%,Corporation
+123,LSH-A,3-Feb-19,Yamuna,25-May-91,29,31-May-10,19,9,RI,salaried,L&T,Ramapuram,High,Kanchipuram,Kanchipuram,Investment,CP,No,74%,Bajaj
+124,LSH-A,6-Feb-19,Kathir,14-Jan-82,38,31-Jan-10,28,9,RI,salaried,Ford-Motor Company,Perungudi,Mid,Ambattur,Ambattur,Investment,CP,Yes,74%,Bajaj
+125,LSH-B,9-Feb-19,Vasan,12-Dec-83,37,31-Dec-10,27,8,RI,salaried,IBM India Pvt Ltd,Ramapuram,Mid,Taramani,Taramani,Own,CP,Yes,63%,Bajaj
+126,LSH-C,12-Feb-19,Ajay,9-Jan-82,38,31-Jan-10,28,9,NRI,salaried,HCL Technologies,Muscat,Mid,Muscat,Muscat,Gifting,CP,No,95%,ABFL
+127,LSH-A,15-Feb-19,Ajay,16-Aug-82,38,31-Aug-10,28,9,RI,salaried,Conduent,Kandanchavadi,Mid,Palavakkam,Palavakkam,Own,CP,Yes,63%,ABFL
+128,LSH-B,18-Feb-19,Sridhar,18-Feb-82,38,28-Feb-10,28,9,RI,salaried,Daimler India,NA,Low,Royapuram,Royapuram,Own,CP,Yes,95%,ABFL
+129,LSH-B,21-Feb-19,Mukund,15-May-61,59,31-May-00,39,19,RI,salaried,DBS Bank,Annasalai,High,Thiruvanmiyur,Thiruvanmiyur,Own,Vendor,No,95%,ABFL
+130,LSH-C,24-Feb-19,Yamuna,13-Mar-82,38,31-Mar-10,28,9,RI,salaried,Flextronics Technologies,Kandanchavadi,Mid,Guindy,Guindy,Own,Vendor,Yes,84%,Kotak
+131,LSH-A,27-Feb-19,Kathir,2-Jul-87,33,31-Jul-10,23,9,RI,salaried,Cognizant,Siruseri,Mid,G.N Chetty Road,G.N Chetty Road,Investment,Vendor,Yes,84%,Kotak
+132,LSH-B,2-Mar-19,Vasan,22-Jan-82,38,31-Jan-10,28,9,RI,salaried,HCL Technologies,Sholinganallur,Mid,T.Nagar,T.Nagar,Investment,Vendor,No,63%,Kotak
+133,LSH-C,5-Mar-19,Ajay,8-May-90,30,31-May-10,20,9,NRI,salaried,Microsoft corporation,Texas,Mid,Texas,Texas,Own,Vendor,Yes,63%,SBI
+134,LSH-A,8-Mar-19,Ajay,27-Mar-85,35,31-Mar-10,25,9,RI,salaried,IVTL INFOVIEW,Karapakkam,Low,Velachery,Velachery,Own,Employee,Yes,95%,SBI
+135,LSH-A,11-Mar-19,Sridhar,28-Sep-84,36,30-Sep-10,26,8,RI,Homemaker,SPI-Global,Porur,High,Perungudi,Perungudi,Own,Customer,No,63%,PNB
+136,LSH-B,14-Mar-19,Mukund,15-Jul-85,35,31-Jul-10,25,9,RI,Self-employed,Lennox,Taramani,Mid,Thoraipakkam,Thoraipakkam,Own,Customer,Yes,95%,PNB
+137,LSH-C,17-Mar-19,Yamuna,7-Jul-83,37,31-Jul-10,27,9,NRI,Self-employed,Cognizant,poland,Mid,poland,poland,Investment,Customer,Yes,74%,PNB
+138,LSH-A,20-Mar-19,Kathir,28-Jun-66,54,30-Jun-00,34,19,RI,salaried,Digital Logiciel,NA,Mid,Taramani,Taramani,Investment,Customer,No,95%,Yes Bank
+139,LSH-B,23-Mar-19,Vasan,4-Jul-95,25,31-Jul-16,21,3,RI,salaried,Agility Logistics Pvt Ltd,Pune,Mid,Mylapore,Mylapore,Own,Customer,Yes,95%,Yes Bank
+140,LSH-B,26-Mar-19,Ajay,11-Oct-87,33,31-Oct-10,23,8,RI,salaried,Amazon,Perungudi,Low,Kottivakam,Kottivakam,Gifting,Customer,Yes,74%,Yes Bank
+141,LSH-C,29-Mar-19,Ajay,27-Jun-78,42,30-Jun-10,32,9,RI,salaried,Ashok Leyland,Guindy,High,Greams Road,Greams Road,Own,CP,No,74%,Yes Bank
+142,LSH-A,1-Apr-19,Sridhar,19-Sep-80,40,30-Sep-10,30,9,RI,salaried,lLeather Crafts India Pvt Ltd,Chengalpet,Mid,Tambaram,Tambaram,Own,CP,Yes,63%,Yes Bank
+143,LSH-C,4-Apr-19,Mukund,29-May-86,34,31-May-10,24,9,RI,salaried,Cognizant,Siruseri,Mid,Teynampet ,Teynampet ,Own,CP,Yes,74%,CSB
+144,LSH-A,7-Apr-19,Yamuna,30-Apr-88,32,30-Apr-10,22,9,NRI,salaried,Wipro Ltd,Dubai,Mid,Dubai,Dubai,Own,CP,No,84%,CSB
+145,LSH-A,10-Apr-19,Kathir,3-Nov-69,51,30-Nov-00,31,18,RI,salaried,Cognizant,Siruseri,Mid,Kanchipuram,Kanchipuram,Investment,CP,Yes,84%,SBI
+146,LSH-B,13-Apr-19,Vasan,7-Jun-83,37,30-Jun-10,27,9,RI,Self-employed,HTC Global Services,Tambaram,Low,Ambattur,Ambattur,Investment,CP,Yes,95%,SBI
+147,LSH-C,16-Apr-19,Ajay,12-Dec-91,29,31-Dec-10,19,8,RI,Self-employed,Bank of America,Taramani,High,Taramani,Taramani,Own,CP,No,63%,SBI
+148,LSH-A,19-Apr-19,Ajay,24-Mar-84,36,31-Mar-10,26,9,RI,Self-employed,Karur Vysya Bank Limited,Medavakkam,Mid,MGR Salai,MGR Salai,Own,CP,Yes,84%,SBI
+149,LSH-B,22-Apr-19,Sridhar,6-Jun-87,33,30-Jun-10,23,9,RI,Self-employed,Maersk Global Service,Kandanchavadi,Mid,Palavakkam,Palavakkam,Own,CP,Yes,74%,SBI
+150,LSH-B,25-Apr-19,Mukund,25-Oct-87,33,31-Oct-10,23,9,RI,Self-employed,TCS,Thoraipakkam,Mid,Royapuram,Royapuram,Own,CP,No,63%,SBI
+151,LSH-C,28-Apr-19,Yamuna,11-Mar-88,32,31-Mar-10,22,9,RI,salaried,KPMG,NA,Mid,Thiruvanmiyur,Thiruvanmiyur,Investment,CP,Yes,63%,HDFC
+152,LSH-A,1-May-19,Kathir,6-Nov-57,63,30-Nov-90,33,29,RI,salaried,TCS,Taramani,Low,Guindy,Guindy,Investment,Vendor,Yes,95%,HDFC
+153,LSH-B,4-May-19,Vasan,14-May-90,30,31-May-10,20,9,RI,salaried,Kanex PTE Ltd,Singapore,High,G.N Chetty Road,G.N Chetty Road,Own,Vendor,No,74%,HDFC
+154,LSH-C,7-May-19,Ajay,27-Aug-88,32,31-Aug-10,22,9,RI,salaried,Indian Bank,Cuddalore,Mid,T.Nagar,T.Nagar,Gifting,Vendor,Yes,63%,Indian
+155,LSH-A,10-May-19,Ajay,8-May-55,65,31-May-88,33,31,RI,salaried,FIS Global Business,Sardar Patel Road,Mid,Shollinganallur,Shollinganallur,Own,Vendor,Yes,84%,Indian
+156,LSH-A,13-May-19,Sridhar,3-Jun-77,43,30-Jun-10,33,9,RI,salaried,WLT,Chennai,Mid,Velachery,Velachery,Own,Vendor,No,74%,Corporation
+157,LSH-B,16-May-19,Mukund,13-Oct-87,33,31-Oct-10,23,9,RI,salaried,Sapphire foods,Annanagar,Mid,Perungudi,Perungudi,Own,Employee,Yes,63%,Corporation
+158,LSH-C,19-May-19,Yamuna,27-Aug-87,33,31-Aug-10,23,9,RI,salaried,HCL Technologies,Navalur,Low,Thoraipakkam,Thoraipakkam,Own,Customer,Yes,84%,Corporation
+159,LSH-A,22-May-19,Kathir,29-Oct-84,36,31-Oct-10,26,9,RI,salaried,Artech Info systems,Perungudi,High,Velachery,Velachery,Investment,Customer,No,95%,Bajaj
+160,LSH-B,25-May-19,Vasan,1-Mar-88,32,31-Mar-10,22,9,NRI,salaried,TCS,Australia,Mid,Australia,Australia,Investment,Customer,Yes,84%,Bajaj
+161,LSH-B,28-May-19,Ajay,1-Jan-92,28,31-Jan-10,18,9,RI,salaried,Qube Cinema,Mylapore,Mid,Mylapore,Mylapore,Own,Customer,Yes,84%,Bajaj
+162,LSH-C,31-May-19,Ajay,8-Jun-82,38,30-Jun-10,28,9,NRI,salaried,HCL Technologies,Oman,Mid,Oman,Oman,Own,Customer,No,84%,ABFL
+163,LSH-A,3-Jun-19,Sridhar,18-Sep-81,39,30-Sep-10,29,9,RI,salaried,Ravindhra Bharathi Global Schoold,Medavakkam,Mid,Greams Road,Greams Road,Own,Customer,Yes,84%,ABFL
+164,LSH-B,6-Jun-19,Mukund,22-Nov-82,38,30-Nov-10,28,9,RI,Homemaker,Samsung India Electronics,Sriperambatur,Low,Tambaram,Tambaram,Own,CP,Yes,74%,ABFL
+165,LSH-C,9-Jun-19,Yamuna,1-Apr-77,43,30-Apr-10,33,9,RI,Self-employed,Accenture,OMR,High,Teynampet ,Teynampet ,Investment,CP,No,84%,ABFL
+166,LSH-A,12-Jun-19,Kathir,19-Dec-80,40,31-Dec-10,30,9,RI,Self-employed,3M India LTD,Teynampet,Mid,Thoraipakkam,Thoraipakkam,Investment,CP,Yes,63%,Kotak
+167,LSH-A,15-Jun-19,Vasan,17-Mar-90,30,31-Mar-10,20,9,RI,salaried,CTS,NA,Mid,Kanchipuram,Kanchipuram,Own,CP,Yes,95%,Kotak
+168,LSH-B,18-Jun-19,Ajay,4-May-70,50,31-May-00,30,19,RI,salaried,Sealing Tech Int,Kandanchavadi,Mid,Ambattur,Ambattur,Gifting,CP,No,84%,Kotak
+169,LSH-C,21-Jun-19,Ajay,28-Jul-77,43,31-Jul-10,33,9,RI,salaried,Homemaker,NA,Mid,Taramani,Taramani,Own,CP,Yes,84%,SBI
+170,LSH-A,24-Jun-19,Sridhar,14-Sep-86,34,30-Sep-10,24,9,RI,salaried,GAVS Technologies,NA,Low,MGR Salai,MGR Salai,Own,CP,Yes,95%,SBI
+171,LSH-B,27-Jun-19,Mukund,26-Nov-87,33,30-Nov-10,23,9,RI,salaried,MPHASIS,Manapakkam,High,Palavakkam,Palavakkam,Own,CP,No,84%,PNB
+172,LSH-B,30-Jun-19,Yamuna,1-Jan-64,56,31-Jan-00,36,20,RI,salaried,Homemaker,NA,Mid,Royapuram,Royapuram,Own,CP,Yes,63%,PNB
+173,LSH-C,3-Jul-19,Kathir,27-Mar-85,35,31-Mar-10,25,9,RI,salaried,HCL Technologies,Navalur,Mid,Thiruvanmiyur,Thiruvanmiyur,Investment,CP,Yes,74%,PNB
+174,LSH-A,6-Jul-19,Vasan,11-Feb-81,39,28-Feb-10,29,9,RI,salaried,Global Mantura Innovation ,NA,Mid,Guindy,Guindy,Investment,CP,No,74%,Yes Bank
+175,LSH-B,9-Jul-19,Ajay,13-Mar-89,31,31-Mar-10,21,9,RI,Self-employed,Tata Communication ,Kallikuppam,Mid,G.N Chetty Road,G.N Chetty Road,Own,Vendor,Yes,84%,Yes Bank
+176,LSH-C,12-Jul-19,Ajay,29-Apr-83,37,30-Apr-10,27,9,RI,Self-employed,IUTL Info view,Karapakkam,Low,T.Nagar,T.Nagar,Own,Vendor,Yes,95%,Yes Bank
+177,LSH-A,15-Jul-19,Sridhar,27-Jan-92,28,31-Jan-10,18,9,RI,Self-employed,TCS,Sipcot,High,Shollinganallur,Shollinganallur,Own,Vendor,No,84%,Yes Bank
+178,LSH-A,18-Jul-19,Mukund,9-May-84,36,31-May-10,26,9,RI,Self-employed,Flextronics Technologies,Kandanchavadi,Mid,Velachery,Velachery,Own,Vendor,Yes,95%,Yes Bank
+179,LSH-B,21-Jul-19,Yamuna,20-Apr-79,41,30-Apr-10,31,9,RI,Self-employed,Accenture,Shollinganallur,Mid,Perungudi,Perungudi,Investment,Vendor,Yes,84%,CSB
+180,LSH-C,24-Jul-19,Kathir,1-Nov-84,36,30-Nov-10,26,9,NRI,salaried,CTS,Kuwait,Mid,Kuwait,Kuwait,Investment,Employee,No,63%,CSB
+181,LSH-A,27-Jul-19,Vasan,6-Jul-90,30,31-Jul-10,20,9,RI,salaried,Indira Gandhi Centre for Atomic Research,Kalpakkam,Mid,Velachery,Velachery,Own,Customer,Yes,84%,SBI
+182,LSH-B,30-Jul-19,Ajay,27-Jan-89,31,31-Jan-10,21,10,RI,salaried,HSBC,Perungudi,Low,Taramani,Taramani,Gifting,Customer,Yes,74%,SBI
+183,LSH-B,2-Aug-19,Ajay,9-Feb-90,30,28-Feb-10,20,9,RI,salaried,Retired,NA,High,Mylapore,Mylapore,Own,Customer,No,84%,SBI
+184,LSH-C,5-Aug-19,Sridhar,30-Sep-93,27,30-Sep-10,17,9,RI,salaried,Accenture,Shollinganallur,Mid,Kottivakam,Kottivakam,Own,Customer,Yes,63%,SBI
+185,LSH-A,8-Aug-19,Mukund,27-Jul-91,29,31-Jul-10,19,9,RI,salaried,Infosys,Shollinganallur,Mid,Greams Road,Greams Road,Own,Customer,Yes,63%,SBI
+186,LSH-B,11-Aug-19,Yamuna,28-Mar-85,35,31-Mar-10,25,9,RI,salaried,HCL Technologies,Shollinganallur,Mid,Tambaram,Tambaram,Own,Customer,No,95%,SBI
+187,LSH-C,14-Aug-19,Kathir,11-Nov-89,31,30-Nov-10,21,9,RI,salaried,HCL Technologies,NA,Mid,Teynampet ,Teynampet ,Investment,CP,Yes,95%,HDFC
+188,LSH-A,17-Aug-19,Vasan,2-May-61,59,31-May-00,39,19,RI,salaried,Sosaley Technologies,NA,Low,Thoraipakkam,Thoraipakkam,Investment,CP,Yes,74%,HDFC
+189,LSH-A,20-Aug-19,Ajay,17-May-86,34,31-May-10,24,9,RI,salaried,Object Frontier india Pvt Ltd,Tidel Park,High,Kanchipuram,Kanchipuram,Own,CP,No,74%,HDFC
+190,LSH-B,23-Aug-19,Ajay,11-Aug-92,28,31-Aug-10,18,9,RI,salaried,HCL Technologies,Kandanchavadi,Mid,Ambattur,Ambattur,Own,CP,Yes,84%,Indian
+191,LSH-C,26-Aug-19,Sridhar,5-Oct-38,82,31-Oct-74,36,45,RI,salaried,Cognizant,Thoraipakkam,Mid,Taramani,Taramani,Own,CP,Yes,84%,Indian
+192,LSH-A,29-Aug-19,Mukund,14-Nov-87,33,30-Nov-10,23,9,RI,salaried,Perkinelmer Health Services Pvt Ltd,Taramani,Mid,MGR Salai,MGR Salai,Own,CP,No,84%,Corporation
+193,LSH-B,1-Sep-19,Yamuna,21-Jun-90,30,30-Jun-10,20,9,RI,Homemaker,HTC Global Services,Taramani,Mid,Palavakkam,Palavakkam,Investment,CP,Yes,95%,Corporation
+194,LSH-B,4-Sep-19,Kathir,10-Sep-89,31,30-Sep-10,21,9,RI,Self-employed,Kumaran System,NA,Low,Royapuram,Royapuram,Investment,CP,Yes,74%,Corporation
+195,LSH-C,7-Sep-19,Vasan,9-Apr-86,34,30-Apr-10,24,9,RI,Self-employed,Atos/syntel,Sipcot,High,Thiruvanmiyur,Thiruvanmiyur,Own,CP,No,95%,Bajaj
+196,LSH-A,10-Sep-19,Ajay,24-Sep-96,24,30-Sep-16,20,3,RI,salaried,Tech Mahindra,Shollinganallur,Mid,Guindy,Guindy,Gifting,CP,Yes,95%,Bajaj
+197,LSH-B,13-Sep-19,Ajay,28-Jun-88,32,30-Jun-10,22,9,RI,salaried,Home Maker,NA,Mid,G.N Chetty Road,G.N Chetty Road,Own,CP,Yes,74%,Bajaj
+198,LSH-C,16-Sep-19,Sridhar,5-May-93,27,31-May-10,17,9,NRI,salaried,CTS,Singapore,Mid,Singapore,Singapore,Own,Vendor,No,63%,ABFL
+199,LSH-A,19-Sep-19,Mukund,11-Nov-88,32,30-Nov-10,22,9,RI,salaried,Sirius Computer Solutions,Taramani,Mid,Shollinganallur,Shollinganallur,Own,Vendor,Yes,95%,ABFL
+200,LSH-A,22-Sep-19,Yamuna,16-Mar-86,34,31-Mar-10,24,10,RI,salaried,Amazon,Kandanchavadi,Low,Velachery,Velachery,Own,Vendor,Yes,63%,ABFL
+201,LSH-B,25-Sep-19,Kathir,20-May-92,28,31-May-10,18,9,RI,salaried,Ernst&Young LLP(EYGDS),Manapakkam,High,Perungudi,Perungudi,Investment,Vendor,No,95%,ABFL
+202,LSH-C,28-Sep-19,Vasan,24-Dec-93,26,31-Dec-15,22,4,RI,salaried,Rajapalayam Mills,Rajapalayam,Mid,Thoraipakkam,Thoraipakkam,Investment,Vendor,Yes,63%,Kotak
+203,LSH-A,1-Oct-19,Ajay,21-Jun-78,42,30-Jun-10,32,9,RI,salaried,Tamilnadu Newsprint ,Karur,Mid,Velachery,Velachery,Own,Employee,Yes,84%,Kotak
+204,LSH-B,4-Oct-19,Ajay,9-Sep-81,39,30-Sep-10,29,9,RI,Self-employed,B A Continum India Pvt Ltd,Taramani,Mid,Taramani,Taramani,Own,Customer,No,84%,Kotak
+205,LSH-B,7-Oct-19,Sridhar,13-Jul-86,34,31-Jul-10,24,9,RI,Self-employed,India Post,Coimbatore,Mid,Mylapore,Mylapore,Own,Customer,Yes,63%,SBI
+206,LSH-C,10-Oct-19,Mukund,10-Feb-84,36,28-Feb-10,26,10,RI,Self-employed,Klipro Technologies,Shollinganallur,Low,Kottivakam,Kottivakam,Own,Customer,Yes,95%,SBI
+207,LSH-A,13-Oct-19,Yamuna,25-May-90,30,31-May-10,20,9,RI,Self-employed,Burndy Technology,Taramani,High,Greams Road,Greams Road,Investment,Customer,No,63%,PNB
+208,LSH-C,16-Oct-19,Kathir,21-May-87,33,31-May-10,23,9,RI,Self-employed,Bank of America,Royapettah,Mid,Tambaram,Tambaram,Investment,Customer,Yes,74%,PNB
+209,LSH-A,19-Oct-19,Vasan,30-Mar-95,25,31-Mar-16,21,4,RI,salaried,Agilysys Technologies,Ramanujam IT Park,Mid,Teynampet ,Teynampet ,Own,Customer,Yes,95%,PNB
+210,LSH-A,22-Oct-19,Ajay,17-Jan-70,50,31-Jan-00,30,20,RI,salaried,Amazon,NA,Mid,Thoraipakkam,Thoraipakkam,Gifting,CP,No,74%,Yes Bank
+211,LSH-B,25-Oct-19,Ajay,14-May-67,53,31-May-00,33,19,RI,salaried,Tata Elxsi Chennai ,Thoraipakkam,Mid,Kanchipuram,Kanchipuram,Own,CP,Yes,95%,Yes Bank
+212,LSH-C,28-Oct-19,Sridhar,17-Oct-87,33,31-Oct-10,23,9,RI,salaried,Ebixcash World Money,Nungambakkam,Low,Ambattur,Ambattur,Own,CP,Yes,74%,Yes Bank
+213,LSH-A,31-Oct-19,Mukund,11-Mar-71,49,31-Mar-00,29,20,RI,salaried,CRPF,NA,High,Taramani,Taramani,Own,CP,No,95%,Yes Bank
+214,LSH-B,3-Nov-19,Yamuna,4-Oct-83,37,31-Oct-10,27,9,RI,salaried,HCL Technologies,Navalur,Mid,MGR Salai,MGR Salai,Own,CP,Yes,74%,Yes Bank
+215,LSH-B,6-Nov-19,Kathir,27-May-85,35,31-May-10,25,9,RI,salaried,Ford Motor Pvt Ltd,Chennai,Mid,Palavakkam,Palavakkam,Investment,CP,Yes,95%,CSB
+216,LSH-C,9-Nov-19,Vasan,1-Jan-92,28,31-Jan-10,18,10,NRI,salaried,CTS,Muscat,Mid,Muscat,Muscat,Investment,CP,No,74%,CSB
+217,LSH-A,12-Nov-19,Ajay,30-Jan-88,32,31-Jan-10,22,10,RI,salaried,ISGEC Heavy Engineering Ltd,NA,Mid,Thiruvanmiyur,Thiruvanmiyur,Own,CP,Yes,84%,SBI
+218,LSH-B,15-Nov-19,Ajay,6-Mar-88,32,31-Mar-10,22,10,RI,salaried,CTS,Sholiinganallur,Low,Guindy,Guindy,Own,CP,Yes,63%,SBI
+219,LSH-C,18-Nov-19,Sridhar,20-May-89,31,31-May-10,21,10,RI,salaried,Verizon  India,MGR Nagar,High,G.N Chetty Road,G.N Chetty Road,Own,CP,No,84%,SBI
+220,LSH-A,21-Nov-19,Mukund,30-Jun-73,47,30-Jun-00,27,19,RI,salaried,Military Engineer Services,Assam,Mid,T.Nagar,T.Nagar,Own,CP,Yes,95%,SBI
+221,LSH-A,24-Nov-19,Yamuna,30-May-72,48,31-May-00,28,20,RI,salaried,CTS,Siruseri,Mid,Shollinganallur,Shollinganallur,Investment,Vendor,Yes,74%,SBI
+222,LSH-B,27-Nov-19,Kathir,30-Oct-87,33,31-Oct-10,23,9,RI,Homemaker,Ford,NA,Mid,Velachery,Velachery,Investment,Vendor,No,74%,SBI
+223,LSH-C,30-Nov-19,Vasan,27-Jun-71,49,30-Jun-00,29,19,RI,Self-employed,Accenture,Shollinganallur,Mid,Perungudi,Perungudi,Own,Vendor,Yes,84%,HDFC
+224,LSH-A,3-Dec-19,Ajay,9-Oct-88,32,31-Oct-10,22,9,RI,Self-employed,Ford Motor Pvt Ltd,Sholinganallur,Low,Thoraipakkam,Thoraipakkam,Gifting,Vendor,Yes,63%,HDFC
+225,LSH-B,6-Dec-19,Ajay,8-Jun-69,51,30-Jun-00,31,20,RI,salaried,P.V.Signs Pvt Ltd,Thiruvanmiyur,High,Velachery,Velachery,Own,Vendor,No,74%,HDFC
+226,LSH-B,9-Dec-19,Sridhar,18-Apr-88,32,30-Apr-10,22,10,RI,salaried,Ford India Limited,Perungudi,Mid,Taramani,Taramani,Own,Employee,Yes,84%,Indian
+227,LSH-C,12-Dec-19,Mukund,16-May-92,28,31-May-10,18,10,RI,salaried,ADP india Pvt Ltd,Guindy,Mid,Mylapore,Mylapore,Own,Customer,Yes,84%,Indian
+228,LSH-A,15-Dec-19,Yamuna,30-May-91,29,31-May-10,19,10,RI,salaried,HCL Technologies,Shollinganallur,Mid,Kottivakam,Kottivakam,Own,Customer,No,74%,Corporation
+229,LSH-B,18-Dec-19,Kathir,1-Apr-84,36,30-Apr-10,26,10,RI,salaried,Kumaran System,Sipcot,Mid,Greams Road,Greams Road,Investment,Customer,Yes,63%,Corporation
+230,LSH-C,21-Dec-19,Vasan,29-Sep-82,38,30-Sep-10,28,9,RI,salaried,US Consulate General,Annasalai,Low,Tambaram,Tambaram,Investment,Customer,Yes,63%,Corporation
+231,LSH-A,24-Dec-19,Ajay,18-Mar-76,44,31-Mar-10,34,10,RI,salaried,Capgemini Service ,Chengalpet,High,Teynampet ,Teynampet ,Own,Customer,No,63%,Bajaj
+232,LSH-A,27-Dec-19,Ajay,5-Apr-92,28,30-Apr-10,18,10,RI,salaried,NLC,Neyveli,Mid,Thoraipakkam,Thoraipakkam,Own,Customer,Yes,95%,Bajaj
+233,LSH-B,30-Dec-19,Sridhar,13-May-70,50,31-May-00,30,20,RI,Self-employed,Tanishq,Velachery,Mid,Kanchipuram,Kanchipuram,Own,CP,Yes,63%,Bajaj
+234,LSH-C,2-Jan-20,Mukund,26-May-90,30,31-May-10,20,10,NRI,Self-employed,Scope international,Dubai,Mid,Dubai,Dubai,Own,CP,No,95%,ABFL
+235,LSH-A,5-Jan-20,Yamuna,20-Jul-87,33,31-Jul-10,23,9,RI,Self-employed,Group On Shared Services,Ramapuram,Mid,Taramani,Taramani,Investment,CP,Yes,95%,ABFL
+236,LSH-B,8-Jan-20,Kathir,25-Jul-86,34,31-Jul-10,24,9,RI,Self-employed,HCL Technologies,Sholinganallur,Low,MGR Salai,MGR Salai,Investment,CP,Yes,63%,ABFL
+237,LSH-B,11-Jan-20,Vasan,12-Jun-90,30,30-Jun-10,20,10,RI,Self-employed,Home Maker,NA,High,Palavakkam,Palavakkam,Own,CP,No,74%,ABFL
+238,LSH-C,14-Jan-20,Ajay,13-Dec-85,35,31-Dec-10,25,9,RI,salaried,HCL Technologies,Shollinganallur,Mid,Royapuram,Royapuram,Gifting,CP,Yes,95%,Kotak
+239,LSH-A,17-Jan-20,Ajay,17-Aug-80,40,31-Aug-10,30,9,RI,salaried,Dimension Data Pvt Ltd,NA,Mid,Thiruvanmiyur,Thiruvanmiyur,Own,CP,Yes,95%,Kotak
+240,LSH-B,20-Jan-20,Sridhar,27-Sep-65,55,30-Sep-00,35,19,RI,salaried,HSBC,Perungudi,Mid,Guindy,Guindy,Own,CP,No,63%,Kotak
+241,LSH-C,23-Jan-20,Mukund,2-Aug-87,33,31-Aug-10,23,9,RI,salaried,Scope international,Shollinganallur,Mid,G.N Chetty Road,G.N Chetty Road,Own,CP,Yes,74%,SBI
+242,LSH-A,26-Jan-20,Yamuna,20-Nov-84,36,30-Nov-10,26,9,RI,salaried,Shell india Markets,Chennai,Low,T.Nagar,T.Nagar,Own,CP,Yes,84%,SBI
+243,LSH-A,29-Jan-20,Kathir,2-Jun-88,32,30-Jun-10,22,10,RI,salaried,Shell india Markets,MGR Salai,High,Shollinganallur,Shollinganallur,Investment,CP,No,84%,PNB
+244,LSH-B,1-Feb-20,Vasan,17-May-89,31,31-May-10,21,10,RI,salaried,MHW Singapore PTE LTD,Singapore,Mid,Velachery,Velachery,Investment,Vendor,Yes,74%,PNB
+245,LSH-C,4-Feb-20,Ajay,29-Sep-87,33,30-Sep-10,23,9,RI,salaried,CTS,Thoraipakkam,Mid,Perungudi,Perungudi,Own,Vendor,Yes,84%,PNB
+246,LSH-A,7-Feb-20,Ajay,9-Aug-87,33,31-Aug-10,23,10,RI,salaried,L&T,Mount Poonamallee Road,Mid,Thoraipakkam,Thoraipakkam,Own,Vendor,No,84%,Yes Bank
+247,LSH-B,10-Feb-20,Sridhar,18-Feb-82,38,28-Feb-10,28,10,RI,salaried,Westas,Shollinganallur,Mid,Velachery,Velachery,Own,Vendor,Yes,84%,Yes Bank
+248,LSH-B,13-Feb-20,Mukund,28-Sep-89,31,30-Sep-10,21,9,RI,salaried,Social Eagle Infotech,Guindy,Low,Taramani,Taramani,Own,Vendor,Yes,84%,Yes Bank
+249,LSH-C,16-Feb-20,Yamuna,17-Oct-75,45,31-Oct-10,35,9,RI,salaried,Citi Bank,Tidel Park,High,Mylapore,Mylapore,Investment,Employee,No,84%,Yes Bank
+250,LSH-A,19-Feb-20,Kathir,4-Apr-90,30,30-Apr-10,20,10,RI,salaried,Cognizant,Thoraipakkam,Mid,Kottivakam,Kottivakam,Investment,Customer,Yes,74%,Yes Bank
+251,LSH-B,22-Feb-20,Vasan,15-Mar-84,36,31-Mar-10,26,10,RI,Homemaker,Kaviniya Technologies,Palavakkam,Mid,Greams Road,Greams Road,Own,Customer,Yes,74%,CSB
+252,LSH-C,25-Feb-20,Ajay,30-Jan-90,30,31-Jan-10,20,10,NRI,Self-employed,Axis Bank,Oman,Mid,Oman,Oman,Gifting,Customer,No,63%,CSB
+253,LSH-A,28-Feb-20,Ajay,21-Jul-89,31,31-Jul-10,21,10,RI,Self-employed,Wipro Ltd,Sholinganallur,Mid,Teynampet ,Teynampet ,Own,Customer,Yes,95%,SBI
+254,LSH-B,2-Mar-20,Sridhar,14-Sep-65,55,30-Sep-00,35,20,RI,salaried,Viasat India,Taramani,Low,Thoraipakkam,Thoraipakkam,Own,Customer,Yes,84%,SBI
+255,LSH-C,5-Mar-20,Mukund,28-May-81,39,31-May-10,29,10,RI,salaried,Axis chemical ltd,Ahmedabad,High,Kanchipuram,Kanchipuram,Own,Customer,No,95%,SBI
+256,LSH-A,8-Mar-20,Yamuna,13-Oct-83,37,31-Oct-10,27,9,RI,salaried,Future Focus I,NA,Mid,Ambattur,Ambattur,Own,CP,Yes,95%,SBI
+257,LSH-B,11-Mar-20,Kathir,15-Jun-88,32,30-Jun-10,22,10,RI,salaried,Own,Royapuram,Mid,Taramani,Taramani,Investment,CP,Yes,95%,SBI
+258,LSH-B,14-Mar-20,Vasan,2-Nov-81,39,30-Nov-10,29,9,RI,salaried,HCL Technologies,Shollinganallur,Mid,MGR Salai,MGR Salai,Investment,CP,No,74%,SBI
+259,LSH-C,17-Mar-20,Ajay,20-May-87,33,31-May-10,23,10,RI,salaried,HCL Technologies,Shollinganallur,Mid,Palavakkam,Palavakkam,Own,CP,Yes,95%,HDFC
+260,LSH-A,20-Mar-20,Ajay,3-Nov-75,45,30-Nov-10,35,9,RI,salaried,Mahindra& Mahindra,NA,Low,Royapuram,Royapuram,Own,CP,Yes,63%,HDFC
+261,LSH-B,23-Mar-20,Sridhar,26-Jan-92,28,31-Jan-10,18,10,RI,salaried,Vida Best Energy Pvt Ltd,Velachery,High,Thiruvanmiyur,Thiruvanmiyur,Own,CP,No,84%,HDFC
+262,LSH-C,26-Mar-20,Mukund,7-Apr-90,30,30-Apr-10,20,10,RI,Self-employed,Ciber India Pvt Ltd,Shollinganallur,Mid,Guindy,Guindy,Own,CP,Yes,74%,Indian
+263,LSH-A,29-Mar-20,Yamuna,5-Jun-82,38,30-Jun-10,28,10,RI,Self-employed,Wipro Ltd,Shollinganallur,Mid,G.N Chetty Road,G.N Chetty Road,Investment,CP,Yes,95%,Indian
+264,LSH-A,1-Apr-20,Kathir,31-Jan-88,32,31-Jan-10,22,10,RI,Self-employed,Sealink International Inc,NA,Mid,T.Nagar,T.Nagar,Investment,CP,No,95%,Corporation
+265,LSH-B,4-Apr-20,Vasan,15-May-75,45,31-May-10,35,10,NRI,Self-employed,HCL Technologies,London,Mid,London,London,Own,CP,Yes,63%,Corporation
+266,LSH-C,7-Apr-20,Ajay,24-Mar-88,32,31-Mar-10,22,10,RI,Self-employed,Bnymellon,Thiruvanmiyur,Low,Velachery,Velachery,Gifting,CP,Yes,84%,Corporation
+267,LSH-A,10-Apr-20,Ajay,22-May-83,37,31-May-10,27,10,RI,salaried,HP,Guindy,High,Perungudi,Perungudi,Own,Vendor,No,63%,Bajaj
+268,LSH-B,13-Apr-20,Sridhar,14-Dec-80,40,31-Dec-10,30,9,RI,salaried,Cognizant,NA,Mid,Thoraipakkam,Thoraipakkam,Own,Vendor,Yes,95%,Bajaj
+269,LSH-B,16-Apr-20,Mukund,3-Feb-86,34,28-Feb-10,24,10,RI,salaried,Mahindra& Mahindra,Mahindra world city,Mid,Velachery,Velachery,Own,Vendor,Yes,95%,Bajaj
+270,LSH-C,19-Apr-20,Yamuna,18-Aug-93,27,31-Aug-10,17,10,NRI,salaried,Ericssoni,Kuwait,Mid,Kuwait,Kuwait,Own,Vendor,No,95%,ABFL
+271,LSH-A,22-Apr-20,Kathir,9-Jan-93,27,31-Jan-10,17,10,RI,salaried,Vestas Wind Technologies ,Sholinganallur,Mid,Mylapore,Mylapore,Investment,Vendor,Yes,63%,ABFL
+272,LSH-B,25-Apr-20,Vasan,7-Oct-92,28,31-Oct-10,18,10,RI,salaried,Central Railway,Maharashtra,Low,Kottivakam,Kottivakam,Investment,Employee,Yes,74%,ABFL
+273,LSH-C,28-Apr-20,Ajay,16-Apr-59,61,30-Apr-96,37,24,RI,salaried,CTS,Sholinganallur,High,Greams Road,Greams Road,Own,Customer,No,74%,ABFL
+274,LSH-A,1-May-20,Ajay,17-Jun-90,30,30-Jun-10,20,10,RI,salaried,Home Maker,NA,Mid,Tambaram,Tambaram,Own,Customer,Yes,74%,Kotak
+275,LSH-A,4-May-20,Sridhar,10-Apr-94,26,30-Apr-16,22,4,RI,salaried,Flex India Pvt Ltd,NA,Mid,Teynampet ,Teynampet ,Own,Customer,Yes,63%,Kotak
+276,LSH-B,7-May-20,Mukund,2-May-75,45,31-May-10,35,10,RI,salaried,Kumaran System,NA,Mid,Thoraipakkam,Thoraipakkam,Own,Customer,No,63%,Kotak
+277,LSH-C,10-May-20,Yamuna,22-Nov-91,29,30-Nov-10,19,9,RI,salaried,Cognizant,Siruseri,Mid,Kanchipuram,Kanchipuram,Investment,Customer,Yes,95%,SBI
+278,LSH-A,13-May-20,Kathir,9-Aug-93,27,31-Aug-10,17,10,RI,salaried,Cognizant,Mugalivakkam,Low,Ambattur,Ambattur,Investment,Customer,Yes,95%,SBI
+279,LSH-B,16-May-20,Vasan,26-May-88,32,31-May-10,22,10,RI,salaried,Temenos,Nungambakkam,High,Taramani,Taramani,Own,CP,No,84%,PNB
+280,LSH-C,19-May-20,Ajay,21-Mar-58,62,31-Mar-95,37,25,RI,Homemaker,IBM India Pvt Ltd,OMR,Mid,MGR Salai,MGR Salai,Gifting,CP,Yes,74%,PNB
+281,LSH-A,22-May-20,Ajay,1-Feb-85,35,28-Feb-10,25,10,RI,Self-employed,Renault Nissan Technology,Mahindra world city,Mid,Palavakkam,Palavakkam,Own,CP,Yes,63%,PNB
+282,LSH-B,25-May-20,Sridhar,2-Mar-59,61,31-Mar-96,37,24,RI,Self-employed,Advocate,Adyar,Mid,Royapuram,Royapuram,Own,CP,No,74%,Yes Bank
+283,LSH-C,28-May-20,Mukund,6-Jun-79,41,30-Jun-10,31,10,RI,salaried,HCL Technologies,Shollinganallur,Mid,Thiruvanmiyur,Thiruvanmiyur,Own,CP,Yes,84%,Yes Bank
+284,LSH-A,31-May-20,Yamuna,4-Jan-75,45,31-Jan-10,35,10,RI,salaried,Hifly Travel Solutions ,G.N Chetty Road,Low,Guindy,Guindy,Own,CP,Yes,84%,Yes Bank
+285,LSH-A,3-Jun-20,Kathir,22-May-84,36,31-May-10,26,10,RI,salaried,Onward Technologies Ltd,Kottivakkam,High,G.N Chetty Road,G.N Chetty Road,Investment,CP,No,63%,Yes Bank
+286,LSH-B,6-Jun-20,Vasan,1-Dec-87,33,31-Dec-10,23,10,RI,salaried,Infosys,Shollinganallur,Mid,T.Nagar,T.Nagar,Investment,CP,Yes,74%,Yes Bank
+287,LSH-C,9-Jun-20,Ajay,27-Oct-94,26,31-Oct-16,22,4,RI,salaried,SAS Partners Corporate Advisor Pvt Ltd,T Nagar,Mid,Shollinganallur,Shollinganallur,Own,CP,Yes,74%,CSB
+288,LSH-A,12-Jun-20,Ajay,10-Apr-89,31,30-Apr-10,21,10,NRI,salaried,APL GLOBAL SCHOOL,Singapore,Mid,Singapore,Singapore,Own,CP,No,95%,CSB
+289,LSH-B,15-Jun-20,Sridhar,9-Jun-85,35,30-Jun-10,25,10,RI,salaried,Saggezza India,Tharamani,Mid,Perungudi,Perungudi,Own,CP,Yes,95%,SBI
+290,LSH-B,22-May-20,Mukund,11-Aug-88,32,31-Aug-10,22,10,RI,salaried,HCL Technologies,Shollinganallur,Low,Thoraipakkam,Thoraipakkam,Own,Vendor,Yes,63%,SBI
+291,LSH-C,25-May-20,Yamuna,18-Jun-91,29,30-Jun-10,19,10,RI,Self-employed,HCL Technologies,Shollinganallur,High,Velachery,Velachery,Investment,Vendor,No,74%,SBI
+292,LSH-A,28-May-20,Kathir,20-Jun-84,36,30-Jun-10,26,10,RI,Self-employed,Cuein Studio,Alapakkam,Mid,Taramani,Taramani,Investment,Vendor,Yes,84%,SBI
+293,LSH-B,31-May-20,Vasan,29-Sep-75,45,30-Sep-10,35,10,RI,Self-employed,HSBC,Perungudi,Mid,Mylapore,Mylapore,Own,Vendor,Yes,63%,SBI
+294,LSH-C,4-May-20,Ajay,19-Jul-83,37,31-Jul-10,27,10,RI,Self-employed,BNP,Taramani,Mid,Kottivakam,Kottivakam,Gifting,Vendor,No,84%,SBI
+295,LSH-A,7-May-20,Ajay,1-Jan-81,39,31-Jan-10,29,10,RI,Self-employed,CMS IT SERVICES PVT LTD,Ambattur,Mid,Greams Road,Greams Road,Own,Employee,Yes,63%,HDFC
+296,LSH-A,10-May-20,Sridhar,11-Aug-74,46,31-Aug-00,26,20,RI,salaried,HCL Technologies,Shollinganallur,Low,Tambaram,Tambaram,Own,Customer,Yes,63%,HDFC
+297,LSH-B,13-May-20,Mukund,30-Dec-84,35,31-Dec-09,25,10,RI,salaried,caplin Point Laborataries Ltd,Jeevapark,High,Teynampet ,Teynampet ,Own,Customer,No,84%,HDFC
+298,LSH-C,16-May-20,Yamuna,9-Aug-88,32,31-Aug-10,22,10,RI,salaried,HCL Technologies,Shollinganallur,Mid,Thoraipakkam,Thoraipakkam,Own,Customer,Yes,84%,Indian
+299,LSH-A,19-May-20,Kathir,8-May-90,30,31-May-10,20,10,RI,salaried,Anna University Chennai,Guindy,Mid,Kanchipuram,Kanchipuram,Investment,Customer,Yes,84%,Indian
+300,LSH-B,16-Apr-20,Vasan,25-Jan-85,35,31-Jan-10,25,10,RI,salaried,GXX India Pvt Ltd,T.Nagar,Mid,Ambattur,Ambattur,Investment,Customer,No,84%,Corporation
+301,LSH-B,19-Apr-20,Ajay,27-May-94,26,31-May-16,22,4,RI,salaried,HCL Technologies,Shollinganallur,Mid,Taramani,Taramani,Own,Customer,Yes,95%,Corporation
+302,LSH-C,22-Apr-20,Ajay,23-Aug-90,30,31-Aug-10,20,10,RI,salaried,HCL Technologies,Shollinganallur,Low,MGR Salai,MGR Salai,Own,CP,Yes,95%,Corporation
+303,LSH-A,25-Apr-20,Sridhar,5-Aug-87,33,31-Aug-10,23,10,RI,salaried,Cuein Studio,Alapakkam,High,Palavakkam,Palavakkam,Own,CP,No,84%,Bajaj
+304,LSH-B,28-Apr-20,Mukund,9-Mar-88,32,31-Mar-10,22,10,RI,salaried,HSBC,Perungudi,Mid,Royapuram,Royapuram,Own,CP,Yes,95%,Bajaj
+305,LSH-C,15-Jun-20,Yamuna,7-Jul-84,36,31-Jul-10,26,10,RI,salaried,BNP,Taramani,Mid,Thiruvanmiyur,Thiruvanmiyur,Investment,CP,Yes,95%,Bajaj
+306,LSH-A,22-May-20,Kathir,16-Oct-89,31,31-Oct-10,21,10,NRI,salaried,CMS IT SERVICES PVT LTD,Muscat,Mid,Muscat,Muscat,Investment,CP,No,84%,ABFL
+307,LSH-A,25-May-20,Vasan,1-Feb-91,29,28-Feb-10,19,10,RI,salaried,HCL Technologies,Shollinganallur,Mid,G.N Chetty Road,G.N Chetty Road,Own,CP,Yes,95%,ABFL
+308,LSH-B,22-May-20,Ajay,1-Jan-93,27,31-Jan-10,17,10,RI,salaried,caplin Point Laborataries Ltd,Jeevapark,Low,T.Nagar,T.Nagar,Gifting,CP,Yes,74%,ABFL
